@@ -1,1 +1,1 @@
-# OODP
+# Object Oriented Design Pattern Course
